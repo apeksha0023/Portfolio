@@ -42,7 +42,7 @@ const Home = () => {
         I am a <span className="typing-text">{text}</span>
         <span className="cursor">|</span>
       </p>
-      <a href="/Apeksha Masodkar - Resume (1) (1).pdf" download target="_blank" rel="noopener noreferrer"><button class="square-btn">Resume</button></a>
+      <a href="/Fullstack Resume.pdf" download target="_blank" rel="noopener noreferrer"><button class="square-btn">Resume</button></a>
        </div>
        <div className='card-photo'>
        <img 

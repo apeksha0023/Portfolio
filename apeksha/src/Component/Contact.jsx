@@ -17,7 +17,7 @@ const Contact = () => {
             <FaLinkedin />
             <p>LinkedIn</p>
           </a>
-          <a href='https://www.instagram.com' className='contact-sbox inst'>
+          <a href='https://www.instagram.com/apeksha__masodkar__/' className='contact-sbox inst'>
             <FaInstagram />
             <p>Instagram</p>
           </a>
